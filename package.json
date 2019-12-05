@@ -12,9 +12,6 @@
     "rimraf": "2.6.2",
     "tap": "11.1.1"
   },
-  "engines": {
-    "node": "8"
-  },
   "files": [],
   "homepage": "http://github.com/focusaurus/writers-digest",
   "keywords": [
